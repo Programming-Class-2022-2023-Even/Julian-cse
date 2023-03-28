@@ -1,0 +1,15 @@
+C:\Users\atsej\source\repos\Assigment1\Assigment1\bin\Debug\net6.0\Assigment1.exe
+C:\Users\atsej\source\repos\Assigment1\Assigment1\bin\Debug\net6.0\Assigment1.deps.json
+C:\Users\atsej\source\repos\Assigment1\Assigment1\bin\Debug\net6.0\Assigment1.runtimeconfig.json
+C:\Users\atsej\source\repos\Assigment1\Assigment1\bin\Debug\net6.0\Assigment1.dll
+C:\Users\atsej\source\repos\Assigment1\Assigment1\bin\Debug\net6.0\Assigment1.pdb
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\Assigment1.csproj.AssemblyReference.cache
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\Assigment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\Assigment1.AssemblyInfoInputs.cache
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\Assigment1.AssemblyInfo.cs
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\Assigment1.csproj.CoreCompileInputs.cache
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\Assigment1.dll
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\refint\Assigment1.dll
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\Assigment1.pdb
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\Assigment1.genruntimeconfig.cache
+C:\Users\atsej\source\repos\Assigment1\Assigment1\obj\Debug\net6.0\ref\Assigment1.dll
